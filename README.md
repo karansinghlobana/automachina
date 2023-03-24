@@ -109,15 +109,17 @@ Once you've imported the library into your project, you can use it in your code.
 ```rust
 use automachina::Computer;
 use automachina::architectures::Architecture;
-use autommachina::machines::Machine;
-use automachina::memory::Memory;
+use automachina::machines::Machine;
+use automachina::programs::Program;
 
 fn main() {
 
     let architecture = Architecture::new();
     let machine = Machine::new(architecture);
-    let memory = Memory::new(machine);
-    let computer = Computer::new(memory);
+    let computer = Computer::new(machine);
+
+    let program = Program::new();
+    computer.execute(program);
 
 }
 
