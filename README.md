@@ -2,6 +2,9 @@
 
 Lobana Abstract Computers  
 
+[![License](https://www.gnu.org/graphics/agplv3-with-text-162x68.png)](./LICENSE.txt)
+
+
 ## Contents  
 
 * [Installation](#installation)
@@ -139,5 +142,28 @@ fn main() {
 
 ## Donate  
 
-## License  
+## License 
 
+### File
+
+[GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007](https://www.gnu.org/licenses/agpl-3.0.html)
+
+[LICENSE.txt](./LICENSE.txt)
+
+### Notice
+
+Automachina: Lobana Abstract Computers
+Copyright (C) 2023 Karan Singh Lobana
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
