@@ -144,14 +144,6 @@ fn main() {
 
 ## License 
 
-### File
-
-[GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007](https://www.gnu.org/licenses/agpl-3.0.html)
-
-[LICENSE.txt](./LICENSE.txt)
-
-### Notice
-
 Automachina: Lobana Abstract Computers
 Copyright (C) 2023 Karan Singh Lobana
 
@@ -163,7 +155,7 @@ the Free Software Foundation, either version 3 of the License, or
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
+[GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html) for more details.
 
-You should have received a copy of the GNU Affero General Public License
+You should have received a copy of the [GNU Affero General Public License](./LICENSE.txt)
 along with this program.  If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
