@@ -1,8 +1,17 @@
 [package]
 name = "automachina"
 version = "0.1.0"
+authors = ["Karan Singh Lobana"]
 edition = "2021"
+description = "Lobana Abstract Computers"
+documentation = "https://docs.rs/automachina"
+readme = "README.md"
+homepage = "https://github.com/karansinghlobana/automachina"
+repository = "https://github.com/karansinghlobana/automachina"
+license = "AGPL-3.0-or-later"
+license-file = "LICENSE.txt"
+keywords = ["automachina", "lobana", "abstract", "computers"]
+categories = ["compilers", "emulators", "encoding", "hardware-support", "virtualization"]
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+[badges]
+maintenance = { status = "experimental" }
