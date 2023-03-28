@@ -2,6 +2,21 @@
 
 Lobana Abstract Computers  
 
+![docs.rs](https://img.shields.io/docsrs/automachina?style=for-the-badge)
+![Docker Automated build](https://img.shields.io/docker/automated/karansinghlobana/automachina?style=for-the-badge)
+![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline-status/automachina?branch=main&style=for-the-badge)
+![Gitlab code coverage](https://img.shields.io/gitlab/pipeline-coverage/automachina?branch=main&style=for-the-badge)
+![Scrutinizer coverage (GitLab)](https://img.shields.io/scrutinizer/quality/gl/automachina/karansinghlobana/automachina/main?style=for-the-badge)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/karansinghlobana/automachina?style=for-the-badge)
+![GitLab language count](https://img.shields.io/gitlab/languages/count/automachina?style=for-the-badge)
+![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/karansinghlobana/automachina?sort=date&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/karansinghlobana/automachina?style=for-the-badge)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/karansinghlobana/automachina?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/karansinghlobana/automachina?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/karansinghlobana/automachina?style=for-the-badge)
+![Crates.io](https://img.shields.io/crates/d/automachina?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/karansinghlobana/automachina/total?style=for-the-badge)
+
 [![License](https://www.gnu.org/graphics/agplv3-with-text-162x68.png)](./LICENSE.txt)
 
 
@@ -301,7 +316,7 @@ If you have any questions or feedback about the project, you can request a comme
 
 When requesting a comment, please provide as much detail as possible about your question or feedback. This will help the project maintainers understand your request and respond appropriately.
 
-#### Feature
+##### Feature
 
 If you feel that something is missing from the project or can be improved, you can suggest a new feature. This can be done in multiple ways:
 
