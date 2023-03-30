@@ -1,2 +1,2 @@
 
-struct Stack;
+pub trait Stack {}

@@ -1,2 +1,2 @@
 
-struct Register;
+pub trait Register {}

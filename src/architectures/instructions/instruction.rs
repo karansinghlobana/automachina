@@ -1,2 +1,2 @@
 
-struct Instruction;
+pub trait Instruction {}

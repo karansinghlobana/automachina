@@ -1,2 +1,2 @@
 
-struct Label {}
+pub trait Label {}

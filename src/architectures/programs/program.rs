@@ -1,2 +1,2 @@
 
-struct Program;
+pub trait Program {}
